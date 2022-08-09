@@ -1,0 +1,11 @@
+# Site wide configuration
+
+title: "Bsides Belfast"
+description: "The Pool on the roof must have a leak"
+#if you modify locale please have a look at _data/messages.yml too
+locale: en
+
+plugins:
+  - jekyll-remote-theme
+  
+remote_theme: rundocs/jekyll-rtd-theme
